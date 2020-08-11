@@ -1,7 +1,8 @@
 # Ejercicios de iverilog diseño logico unitec
 
-## Rizo Quintero Juan Pablo
-## 319006317
+## Datos del alumno 
+Nombre: **Rizo Quintero Juan Pablo**
+No. Estudiante: **319006317**
 
 **como compilar**
 > iverilog nombreArchivo.v -o nombreArchivo
